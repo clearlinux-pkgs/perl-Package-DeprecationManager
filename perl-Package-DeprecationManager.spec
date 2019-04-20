@@ -4,10 +4,10 @@
 #
 Name     : perl-Package-DeprecationManager
 Version  : 0.17
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.17.tar.gz
-Summary  : 'Manage deprecation warnings for your distribution'
+Summary  : Manage deprecation warnings for your distribution
 Group    : Development/Tools
 License  : Artistic-2.0
 Requires: perl-Package-DeprecationManager-license = %{version}-%{release}
@@ -30,6 +30,7 @@ Package::DeprecationManager - Manage deprecation warnings for your distribution
 Summary: dev components for the perl-Package-DeprecationManager package.
 Group: Development
 Provides: perl-Package-DeprecationManager-devel = %{version}-%{release}
+Requires: perl-Package-DeprecationManager = %{version}-%{release}
 
 %description dev
 dev components for the perl-Package-DeprecationManager package.
