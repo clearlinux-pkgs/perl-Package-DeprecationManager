@@ -4,7 +4,7 @@
 #
 Name     : perl-Package-DeprecationManager
 Version  : 0.17
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.17.tar.gz
 Summary  : 'Manage deprecation warnings for your distribution'
@@ -105,4 +105,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Package/DeprecationManager.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Package/DeprecationManager.pm
