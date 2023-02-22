@@ -1,10 +1,8 @@
-0.17
+0.18
 perl(Module::Implementation)
-perl(Module::Runtime)
 perl(Package::Stash)
 perl(Params::Util)
 perl(Sub::Install)
-perl(Sub::Name)
 perl(Test::Fatal)
 perl(Test::Warnings)
 perl(Try::Tiny)
