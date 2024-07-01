@@ -5,7 +5,7 @@
 #
 Name     : perl-Package-DeprecationManager
 Version  : 0.18
-Release  : 22
+Release  : 23
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.18.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Package-DeprecationManager-0.18.tar.gz
 Summary  : 'Manage deprecation warnings for your distribution'
